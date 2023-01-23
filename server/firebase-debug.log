@@ -1,0 +1,13 @@
+[debug] [2023-01-22T18:06:43.504Z] ----------------------------------------------------------------------
+[debug] [2023-01-22T18:06:43.508Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Silvana Martins\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2023-01-22T18:06:43.510Z] CLI Version:   11.21.0
+[debug] [2023-01-22T18:06:43.511Z] Platform:      win32
+[debug] [2023-01-22T18:06:43.512Z] Node Version:  v18.13.0
+[debug] [2023-01-22T18:06:43.514Z] Time:          Sun Jan 22 2023 15:06:43 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2023-01-22T18:06:43.514Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-01-22T18:06:43.521Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2023-01-22T18:06:44.094Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2023-01-22T18:06:44.095Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
